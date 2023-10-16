@@ -112,8 +112,10 @@ const WeatherApp = () => {
                <div className="data">
                   <div className="wind-rate">18 Km/h</div>
                   <div className="text">Wind Speed</div>
+                  {/* <div className="text">Wind Speed</div> */}
+                  
                </div>
-               {/* <div className="text">Write By SUON PHANUN</div> */}
+               <div className="text">Write By SUON PHANUN</div>
             </div>
          </div>
 
